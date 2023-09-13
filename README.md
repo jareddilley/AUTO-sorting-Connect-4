@@ -10,9 +10,10 @@ Attached is the Fusion 360 so the models can be editted directly and used to bet
 # Sensing Color
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Color-sensing-gif-demo.gif)
 
-The IR sensor is able to reflect off of the red peice but not the red peice alwoing for a simple binary approach. This requires that one of the peice colors is black, but this method reduces the number of cables and is the simple solution. 
-
+The IR sensor is able to reflect off of the red peice but not the red peice alwoing for a simple binary approach. This requires that one of the peice colors is black, but this method reduces the number of cables and is the simple solution. The most compact place for the sensors, which also does not block the view of the gameplay, ends up being the bottom; we can combine them with the levers that push the peices to one side or the other.
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/IR-Sensor-Working.gif)
 # Dividing Peices
 
 # One Row Handling
+![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/One-row-handling-gif-demo.gif)
+The peices traditionally come out of the bottom so we can use the existing slider to drop the peices one at a time using a percise servo. The server can provide an action that is quick and percice enough to cosistantly only drop one row at a time. This works under the load of one row or all six.
