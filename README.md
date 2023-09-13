@@ -1,4 +1,4 @@
-# AUTO-sorting-Connect-4
+# AUTO-Sorting-Connect-4
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Connect4-sorting-gif-demo.gif)
 
 Fully 3D printed Connect 4 add-on that sorts the pieces for you at the touch of a button.
@@ -8,7 +8,7 @@ Attached is the Fusion 360 so the models can be edited directly and used to bett
 
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/3d-Connect-4-model.PNG)
 
-The layout of the sensors and servos in references to the 3D prints can be see below. Along with the placement you can also see the way that the cables can be effectivly managed (don't forget to leave slack for the platform of the lever to go all the way up and down.
+The layout of the sensors and servos in reference to the 3D prints can be seen below. Along with the placement, you can also see the way that the cables can be effectively managed (don't forget to leave slack for the platform of the lever to go all the way up and down.
 
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Disassembled-view.jpg)
 # Sensing Color
@@ -20,7 +20,7 @@ The IR sensor is able to reflect off of the red piece but not the red piece allo
 # Dividing Peices
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Servo-lever-system-gif-demo.gif)
 
-A lever system (think seesaw) is used to push the pieces to one side or the other. A server with a simple linkage is used to tilt the single point mounted platform to one side or the other and let gravity do the rest. This system is not the most robust system and has its ussies but is a solution to the problem and can be improved upon.
+A lever system (think seesaw) is used to push the pieces to one side or the other. A server with a simple linkage is used to tilt the single-point mounted platform to one side or the other and let gravity do the rest. This system is not the most robust system and has its issues but is a solution to the problem and can be improved upon. The platform must stop in the middle of each row to sense the pieces before picking a side.
 # One Row Handling
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/One-row-handling-gif-demo.gif)
 
