@@ -20,7 +20,7 @@ The IR sensor is able to reflect and receive off of the red piece but not the bl
 # Dividing Peices
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Servo-lever-system-gif-demo.gif)
 
-A lever system (think seesaw) is used to push the pieces to one side or the other. A server with a simple linkage is used to tilt the single-point mounted platform to one side or the other and let gravity do the rest. This system is not the most robust system and has its issues but is a solution to the problem and can be improved upon. The platform must stop in the middle of each row to sense the pieces before picking a side.
+A lever system (think seesaw) is used to push the pieces to one side or the other. A server with a simple linkage is used to tilt the single-point mounted platform to one side or the other letting gravity do the rest. This system is not the most robust approach and has its flaws but is a solution to the problem and can be improved upon. The platform must stop in the middle of each row drop to sense the color before picking a side.
 # One Row Handling
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/One-row-handling-gif-demo.gif)
 
