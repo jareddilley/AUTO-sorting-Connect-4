@@ -14,7 +14,7 @@ The layout of the sensors and servos in reference to the 3D prints can be seen b
 # Sensing Color
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Color-sensing-gif-demo.gif)
 
-The IR sensor is able to reflect off of the red piece but not the red piece allowing for a simple binary approach. This requires that one of the piece colors is black, but this method reduces the number of cables and is the simple solution. The most compact place for the sensors, which also does not block the view of the gameplay, ends up being the bottom; we can combine them with the levers that push the pieces to one side or the other.
+The IR sensor is able to reflect and receive off of the red piece but not the black piece allowing for a simple binary approach. This requires that one of the piece colors be black, but this method reduces the number of cables and is the simple solution. The most compact place for the sensors, which also does not block the view of the gameplay, ends up being the bottom; we can combine them with the levers that push the pieces to one side or the other.
 
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/IR-Sensor-Working.gif)
 # Dividing Peices
