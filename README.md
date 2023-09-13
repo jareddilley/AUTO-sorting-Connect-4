@@ -7,6 +7,8 @@ The solution is made up of 3 parts which will be broken down below: sensing colo
 Attached is the Fusion 360 so the models can be edited directly and used to better understand how it is broken down. A YouTube link for the build process and comedic relief: https://www.youtube.com/watch?v=7tsY3SJziWs&t=1s
 
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/3d-Connect-4-model.PNG)
+
+The layout of the sensors and servos in references to the 3D prints can be see below. Along with the placement you can also see the way that the cables can be effectivly managed (don't forget to leave slack for the platform of the lever to go all the way up and down.
 # Sensing Color
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Color-sensing-gif-demo.gif)
 
