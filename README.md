@@ -9,6 +9,8 @@ Attached is the Fusion 360 so the models can be edited directly and used to bett
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/3d-Connect-4-model.PNG)
 
 The layout of the sensors and servos in references to the 3D prints can be see below. Along with the placement you can also see the way that the cables can be effectivly managed (don't forget to leave slack for the platform of the lever to go all the way up and down.
+
+![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Disassembled-view.jpg)
 # Sensing Color
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Color-sensing-gif-demo.gif)
 
