@@ -8,7 +8,11 @@ Attached is the Fusion 360 so the models can be editted directly and used to bet
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/3d-Connect-4-model.PNG)
 
 # Sensing Color
+![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Color-sensing-gif-demo.gif)
 
+The IR sensor is able to reflect off of the red peice but not the red peice alwoing for a simple binary approach. This requires that one of the peice colors is black, but this method reduces the number of cables and is the simple solution. 
+
+![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/IR-Sensor-Working.gif)
 # Dividing Peices
 
 # One Rwo Handling
