@@ -15,4 +15,4 @@ The IR sensor is able to reflect off of the red peice but not the red peice alwo
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/IR-Sensor-Working.gif)
 # Dividing Peices
 
-# One Rwo Handling
+# One Row Handling
