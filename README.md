@@ -18,4 +18,4 @@ The IR sensor is able to reflect off of the red piece but not the red piece allo
 # One Row Handling
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/One-row-handling-gif-demo.gif)
 
-The pieces traditionally come out of the bottom so we can use the existing slider to drop the pieces one at a time using a precise servo. The server can provide an action that is quick and precise enough to consistently only drop one row at a time. This works under the load of one row or all six.
+The pieces traditionally come out of the bottom so we can use the existing slider to drop the pieces one at a time using a precise servo. The servo can be mounted to the side support and can provide an action that is quick and precise enough to consistently only drop one row at a time. This works under the load of one row or all six.
