@@ -8,9 +8,10 @@ Attached is the Fusion 360 so the models can be edited directly and used to bett
 
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Media/3d-Connect-4-model.PNG)
 
-The layout of the sensors and servos in reference to the 3D prints can be seen below. Along with the placement, you can also see the way that the cables can be effectively managed (don't forget to leave slack for the platform of the lever to go all the way up and down.
+Below is the full Arduino schematic for anyone trying to build the project. For those who want a closer look, the diagram can be found in the Fritzing Schematic folder. If there are any confusions feel free to ask in the discussion. (don't forget to leave slack in the wires for the platform of the lever to go all the way up and down)
 
-![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Media/Disassembled-view.jpg)
+![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Media/connect4-shcematic.PNG)
+
 # Sensing Color
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Media/Color-sensing-gif-demo.gif)
 
