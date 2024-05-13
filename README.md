@@ -1,4 +1,6 @@
 # AUTO-Sorting-Connect-4
+[Arduino Blog](https://blog.arduino.cc/2023/09/27/automating-connect-four-setup-and-cleanup/?queryID=undefined)
+
 ![image](https://github.com/jareddilley/AUTO-sorting-Connect-4/blob/main/Media/Connect4-sorting-gif-demo.gif)
 
 Fully 3D printed Connect 4 add-on that sorts the pieces for you at the touch of a button.
